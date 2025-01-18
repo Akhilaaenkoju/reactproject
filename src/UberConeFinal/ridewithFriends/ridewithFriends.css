@@ -1,0 +1,26 @@
+/* Ride With Friends Section Styling */
+.container .row img {
+    max-height: 300px;
+  }
+  
+  .row .col-md-6 h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .row .col-md-6 p {
+    color: #6c757d;
+    font-size: 1rem;
+  }
+  
+  .row .col-md-6 .btn-outline-dark {
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 0.5rem 1.5rem;
+  }
+  
+  .row .col-md-6 .btn-outline-dark:hover {
+    background-color: #000;
+    color: #fff;
+  }
+  

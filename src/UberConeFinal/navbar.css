@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Navbar.css */
+/* .navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .nav-link {
+    margin-right: 1rem;
+  }
+  
+  .nav-link.btn {
+    margin-left: 1rem;
+  } */
+
+  /* src/uberClone/navbar.css */
+.navbar {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar-brand {
+    font-family: 'Arial', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    transition: color 0.3s;
+  }
+  
+  .nav-link:hover {
+    color: #ff9900;
+  }
+  
+  .footer {
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+  
